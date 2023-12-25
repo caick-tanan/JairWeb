@@ -16,10 +16,10 @@ const About = () => {
 
             <div className="about__data">
                 <Info />
-                <p className="missao">Missão </p>
+                <p className="missao">Visão </p>
                 <p className="about__description">Nossa visão é conquistar o reconhecimento no segmento atuante, fidelizando nossos clientes e apresentando propostas que viabilizem e fortaleçam nossa parceria e que através destas novas oportunidades venham surgir na prestação de nossos serviços.
                 </p>
-                <p className="visao">Visão </p>
+                <p className="visao">Missão </p>
                 <p className="about__description">Nossa missão é transportar sua carga com qualidade, rapidez e segurança surpreendendo as expectativas nos serviços prestados visando a satisfação de nossos clientes e desenvolvimento de nossos colaboradores em busca da melhoria contínua.
                 </p>
             </div>

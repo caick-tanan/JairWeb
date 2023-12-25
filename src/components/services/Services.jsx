@@ -28,8 +28,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Web Developer</h3>
-                        <p className="services__modal-description">Full Stack</p>
+                        <h3 className="services__modal-title">Tipos de Transporte</h3>
                         
                         <ul className="services__modal-services grid">
                         <li className="services__modal-service">
@@ -81,8 +80,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Mobile Developer</h3>
-                        <p className="services__modal-description">Full Stack</p>
+                        <h3 className="services__modal-title">Tipos de Logística</h3>
                         
                         <ul className="services__modal-services grid">
                         <li className="services__modal-service">
