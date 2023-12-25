@@ -7,7 +7,7 @@ const Social = () => {
         <i className="uil uil-whatsapp"></i>
         </a>
         
-        <a href="mailto:caicktanam@gmail.com" className="home__social-icon" target="_blank" rel="noreferrer">
+        <a href="mailto:j.air.nalmeida2@gmail.com" className="home__social-icon" target="_blank" rel="noreferrer">
         <i className="bx bxl-gmail"></i>
         </a>
     </div>

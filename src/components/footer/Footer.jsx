@@ -28,7 +28,7 @@ const Footer = () => {
                 <i className="uil uil-whatsapp"></i>
                 </a>
 
-                <a href="mailto:j.air.nalmeida1@gmail.com" className="footer__social-link" target="_blank" rel="noreferrer">
+                <a href="mailto:j.air.nalmeida2@gmail.com" className="footer__social-link" target="_blank" rel="noreferrer">
                 <i className="bx bxl-gmail"></i>
                 </a>
             </div>

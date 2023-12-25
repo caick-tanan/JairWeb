@@ -36,7 +36,7 @@ const Contact = () => {
                         <h3 className="contact__card-title">E-mail</h3> 
                         <span className="contact__card-data">j.air.nalmeida1@gmail.com</span>
 
-                        <a href="mailto:j.air.nalmeida1@gmail.com" className="contact__button" target="_blank" rel="noreferrer">Enivar E-mail<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="mailto:j.air.nalmeida2@gmail.com" className="contact__button" target="_blank" rel="noreferrer">Enivar E-mail<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                    
