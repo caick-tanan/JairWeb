@@ -8,10 +8,10 @@ const Contact = () => {
     const sendEmail = (e) => {
       e.preventDefault();
   
-      emailjs.sendForm('service_cdgxcy5', 
-                        'template_alut3vn', 
+      emailjs.sendForm('service_ak15e6d', 
+                        'template_nuv9kbc', 
                         form.current, 
-                        'lZyfQigrGEQJwbzck')
+                        'd98pFUWUqVN646uCl')
         e.target.reset()
     };
     
@@ -77,7 +77,7 @@ const Contact = () => {
                         cols="30" 
                         rows="10" 
                         className="contact__form-input" 
-                        placeholder="Insira aqui qual tipo de Encomenda / Data / Horário e Observações."></textarea>
+                        placeholder="Insira aqui qual tipo de Encomenda / Local / Data / Horário e Observações."></textarea>
                     </div>
 
                     <button onClick={msg} className="button button--flex">
